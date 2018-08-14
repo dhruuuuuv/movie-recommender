@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1511347882 "main.tex" "main.pdf" "main" 1511347884
-  "./rm.png" 1488873006 21732 0e17a9b4094e285ccaaa1cab5c837a9a ""
+["pdflatex"] 1487940976 "main.tex" "main.pdf" "main" 1487940983
+  "./rm.png" 1487786073 21732 0e17a9b4094e285ccaaa1cab5c837a9a ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -163,13 +163,13 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1451162218 3849860 c7325c6e6bda9916a942a6b84bc907f9 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Macros.tex" 1488873006 4438 55546f8aaad4748e923cfe71fd41eacd ""
-  "main.aux" 1511347883 808 36162ff7b5526faafa8e6e94006431ec ""
-  "main.tex" 1511347882 8503 9fb82d44a6adce91d11ad265ad906a3b ""
-  "rm.png" 1488873006 21732 0e17a9b4094e285ccaaa1cab5c837a9a ""
+  "Macros.tex" 1486471755 4438 55546f8aaad4748e923cfe71fd41eacd ""
+  "main.aux" 1487940977 808 36162ff7b5526faafa8e6e94006431ec ""
+  "main.tex" 1487940983 8503 0e46cc93e46487cd60f09bc98f7f570d ""
+  "rm.png" 1487786073 21732 0e17a9b4094e285ccaaa1cab5c837a9a ""
   (generated)
-  "main.pdf"
-  "main.log"
-  "main.bcf"
   "main.run.xml"
+  "main.bcf"
   "main.aux"
+  "main.log"
+  "main.pdf"
